@@ -1,6 +1,6 @@
-=================================================
+-------------------------------------------------
 Proposals for Interoperable PHP Object Interfaces
-=================================================
+-------------------------------------------------
 
 ## Abount us
 We define a set of interfaces for interoperating with php objects. We propose interfaces for PHP objects pointing to the next era.
