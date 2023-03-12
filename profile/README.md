@@ -3,7 +3,7 @@ Proposals for Interoperable PHP Object Interfaces
 
 <p align="center"><img src="https://raw.githubusercontent.com/interop-phpobjects/.github/main/profile/microservices.svg" width="240"></p>
 
-## Abount us
+## About us
 We define a set of interfaces for interoperating with php objects. We propose interfaces for PHP objects pointing to the next era.
 
 We should aim to replace ourselves with others.
