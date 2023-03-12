@@ -23,3 +23,16 @@ At each stage the namespace changes so that new and old definitions can coexist.
 - lenient: Interface definitions that can be used in legacy systems. Available for PHP5.3 or higher.
 - polite: Interface definitions that can be used in systems that want to be defined a little more rigidly. Available for PHP7.2 or higher.
 
+## Set of interfaces
+
+- Annotation services
+- Object container
+- Aspect Oriented Programming
+- Transaction management
+- Inter-process messaging
+- Data access object
+- Validation
+- Authentication/Authorization/Encryption security
+- Web processing
+- Mathematics
+- Artificial Intelligence
