@@ -1,5 +1,5 @@
-Proposals for Interoperable PHP Object Interfaces
-=================================================
+Interoperatable PHP Object Interfaces
+=====================================
 
 <p align="center"><img src="https://raw.githubusercontent.com/interop-phpobjects/.github/main/profile/microservices-title.svg" width="480"></p>
 
